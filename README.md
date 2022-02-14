@@ -1,5 +1,7 @@
 # bikesharing
 
+[link to story](https://public.tableau.com/app/profile/connor.cole2565/viz/bikesharing_16447949221360/CitiBikeStory)
+
 ## Overview
 
 To visualize citi bike ridesharing data based on available parameters including gender, time/day bikes were rented, and user type.
